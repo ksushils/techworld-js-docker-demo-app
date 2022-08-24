@@ -17,7 +17,7 @@ pipeline {
         stage("build") {
             steps {
                 script {
-                    echo("hi")
+                    echo("hlplpli")
                     gv.buildApp()
                 }
             }
